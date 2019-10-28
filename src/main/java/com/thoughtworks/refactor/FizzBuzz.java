@@ -1,4 +1,4 @@
-package org.katas.refactoring.fizzbuzz.switchstatement;
+package com.thoughtworks.refactor;
 
 
 public class FizzBuzz {

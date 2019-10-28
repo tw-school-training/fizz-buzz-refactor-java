@@ -1,4 +1,4 @@
-package org.katas.refactoring.fizzbuzz.switchstatement;
+package com.thoughtworks.refactor;
 
 import org.hamcrest.core.Is;
 import org.junit.Test;
